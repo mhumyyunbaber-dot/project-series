@@ -1,0 +1,10 @@
+FavouritFilm=[]
+F1=input("Enter a Film Name:  ")
+FavouritFilm.append(F1)
+F2=input("Enter a 2nd Film name: ")
+FavouritFilm.append(F2)
+F3=input("Enter a 3rd Film Name:  ")
+FavouritFilm.append(F3)
+F4=input("Enter a 4rth Film Name:  ")
+FavouritFilm.append(F4)
+print(FavouritFilm)
