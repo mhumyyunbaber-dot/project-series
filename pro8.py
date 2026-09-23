@@ -1,0 +1,12 @@
+Task=[]
+point1=input("Enter Your Point: ")
+Task.append(point1)
+point2=input("Enter Your Point: ")
+Task.append(point2)
+point3=input("Enter Your Point: ")
+Task.append(point3)
+point4=input("Enter Your Point: ")
+Task.append(point4)
+point5=input("Enter Your Point: ")
+Task.append(point5)
+print("My TODO list is ",Task)
